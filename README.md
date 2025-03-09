@@ -25,3 +25,4 @@ S3_MP3_AUDIO_PATH=
 ## References : 
 - [chatengine.io - For enabling in-built chat](https://chatengine.io/)
 - [netlify : Deployment on production](https://www.netlify.com/)
+- [Chat Engines Project](https://www.youtube.com/playlist?list=PLGbbmLEXc-6q38wDrv5TZO6VsVqMteazX)
